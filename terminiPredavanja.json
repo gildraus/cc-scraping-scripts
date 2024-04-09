@@ -1,0 +1,3878 @@
+[
+    {
+        "course_id": "М22004",
+        "lecture_session_times": [
+            "23. октобар 2023.. 18:15:00 11"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "26. октобар 2023.. 18:15:00 6"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "2. новембар 2023.. 18:15:00 8"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "6. новембар 2023.. 18:15:00 8"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "9. новембар 2023.. 18:15:00 8"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "16. новембар 2023.. 18:15:00 8"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "20. новембар 2023.. 18:15:00 8"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "23. новембар 2023.. 18:15:00 8"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "30. новембар 2023.. 18:15:00 8"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "4. децембар 2023. . 18:15:00 8"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "7. децембар 2023. 18:15:00 8"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "11. децембар 2023.. 18:15:00 8"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "14. децембар 2023.. 18:15:00 8"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "18. децембар 2023.. 18:15:00 8"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "21. децембар 2023.. 18:15:00 8"
+        ]
+    },
+    {
+        "course_id": "М22007",
+        "lecture_session_times": [
+            "12. децембар 2023.. 18:15:00 8"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "14. децембар 2023.. 18:15:00 6"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "18. децембар 2023.. 18:15:00 6"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "20. децембар 2023.. 18:15:00 7"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "27. децембар 2023.. 18:15:00 7"
+        ]
+    },
+    {
+        "course_id": "M22109",
+        "lecture_session_times": [
+            "16. новембар 2023.. 18:15:00 15"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "17. новембар 2023.. 18:15:00 9"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "20. новембар 2023.. 18:15:00 15"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "21. новембар 2023.. 18:15:00 9"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "23. новембар 2023.. 18:15:00 9"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "24. новембар 2023.. 18:15:00 9"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "27. новембар 2023.. 18:15:00 7"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "28. новембар 2023.. 18:15:00 7"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "29. новембар 2023.. 18:15:00 7"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "30. новембар 2023.. 18:15:00 7"
+        ]
+    },
+    {
+        "course_id": "М22018",
+        "lecture_session_times": [
+            "25. октобар 2023.. 18:15:00 Амф 4"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "26. окробар 2023.. 18:15:00 Амф 1"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "27. октобар 2023.. 18:15:00 Амф 4"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "30. октобар 2023.. 18:15:00 Амф 4"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "31. октобар 2023.. 18:15:00 Амф 4"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "+ 2. новембар 2023.. 18:15:00 Амф 4"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "9. новембар 2023.. 18:15:00 Амф 4"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "16. новембар 2023. 18:15:00 Амф 5"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "23. новембар 2023.. nan nan"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "30. новембар 2023. nan nan"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "7. децембар 2023.. nan nan"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "14. децембар 2023.. nan nan"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "21. децембар 2023.. nan nan"
+        ]
+    },
+    {
+        "course_id": "М22020",
+        "lecture_session_times": [
+            "6. децембар 2023.. 18:15:00 14"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "7. децембар 2023.. 18:15:00 16"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "8. децембар 2023.. 18:15:00 16"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "11. децембар 2023. 18:15:00 18"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "18. децембар 2023.. 18:15:00 30"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "21. децембар 2023.. 18:15:00 30"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "22. децембар 2023.. 18:15:00 30"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "25. децембар 2023.. 18:15:00 30"
+        ]
+    },
+    {
+        "course_id": "М18001",
+        "lecture_session_times": [
+            "15. новембар 2023.. 18:15:00 20"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "16. новембар 2023.. 18:15:00 20"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "17. новембар 2023.. 18:15:00 20"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "18. новембар 2023.. 10:00:00 20"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "20. новембар 2023.. 18:15:00 20"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "22. новембар 2023.. 18:15:00 20"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "23. новембар 2023.. 18:15:00 20"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "24. новембар 2023.. 18:15:00 20"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "27. новембар 2023.. 18:15:00 20"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "28. новембар 2023.. 18:15:00 20"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "29. новембар 2023.. 18:15:00 20"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "30. новембар 2023.. 18:15:00 20"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "1.децембар 2023.. 18:15:00 20"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "5. децембар 2023.. 18:15:00 20"
+        ]
+    },
+    {
+        "course_id": "М18002",
+        "lecture_session_times": [
+            "6. децембар 2023.. 18:15:00 20"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "7. децембар 2023.. 18:15:00 20"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "8.  децембар 2023.. 18:15:00 20"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "11. децембар 2023.. 18:15:00 20"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "12. децембар 2023.. 18:15:00 19"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "13. децембар 2023.. 18:15:00 19"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "14. децембар 2023.. 18:15:00 19"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "15. децембар 2023.. 18:15:00 19"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "16. децембар 2023.. 10:00:00 19"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "18. децембар 2023.. 18:15:00 19"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "20. децембар 2023.. 18:15:00 19"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "21. децембар 2023.. 18:15:00 19"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "22. децембар 2023.. 18:15:00 20"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "26. децембар 2023.. 18:15:00 20"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "29. децембар 2023.. 18:15:00 20"
+        ]
+    },
+    {
+        "course_id": "М20033",
+        "lecture_session_times": [
+            "18. октобар 2023.. 18:15:00 6"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "19. октобар 2023.. 18:15:00 6"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "20. октобар 2023.. 18:15:00 6"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "23. октобар 2023.. 18:15:00 6"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "25. октобар 2023.. 18:15:00 6"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "26. октобар 2023.. 18:15:00 7"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "30. октобар 2023. 18:15:00 7"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "1. новембар 2023.. 18:15:00 7"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "3. новембар 2023.. 18:15:00 7"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "+ 6 новембар 2023.. 18:15:00 6"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "10. новембар 2023.. 18:15:00 6"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "13. новембар 2023.. 18:15:00 6"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "15. новембар 2023.. - -"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "+ 16. новембар 2023.. 18:15:00 9"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "20. новембар 2023.. 18:15:00 9"
+        ]
+    },
+    {
+        "course_id": "м22038",
+        "lecture_session_times": [
+            "13. децембар 2023.. 18:15:00 Амф 5"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "nan. nan nan"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "nan. nan nan"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "nan. nan nan"
+        ]
+    },
+    {
+        "course_id": "М22041",
+        "lecture_session_times": [
+            "30. октобар 2023.. 18:15:00 14"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "31. октобар 2023.. 18:15:00 14"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "1. новембар 2023.. 18:15:00 14"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "2. новембар 2023.. 18:15:00 14"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "3. новембар 2023.. 18:15:00 14"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "+ 6. новембар 20233. 18:15:00 14"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "13. новембар 2023.. 18:15:00 14"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "14. новембар 2023.. 18:15:00 14"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "15. новембар 2023.. 18:15:00 14"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "16. новембар 2023.. 18:15:00 14"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "17. новембар 2023.. 18:15:00 14"
+        ]
+    },
+    {
+        "course_id": "М22044",
+        "lecture_session_times": [
+            "20. новембар 2023.. 18:15 21"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "21. новембар 2023.. 18:15:00 21"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "22. новембар 2023.. 18:15:00 17"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "24. новембар 2023.. 18:15:00 17"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "25. новембар 2023.. 10:00:00 17"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "+ 10 термина. nan nan"
+        ]
+    },
+    {
+        "course_id": "М22045",
+        "lecture_session_times": [
+            "17. новембар 2023.. 18:15:00 Амф 2"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "18. новембар 2023.. 10:00:00 Амф 2"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "20. новембар2023.. 18:15:00 Амф 2"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "21. новембар 2023.. 18:15:00 Амф 2"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "22. новембар 2023.. 18:15:00 Амф 2"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "23. новембар 2023.. 18:15:00 Амф 2"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "24. новембар 2023.. 18:15:00 Амф 2"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "27. новембар 2023.. 18:15:00 Амф 2"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "28. новембар 2023.. 18:15:00 Амф 2"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "29. новембар 2023.. 18:15:00 Амф 2"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "30. новембар 2023.. 18:15:00 Амф 2"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "1. децембар 2023.. 18:15:00 Амф 2"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "2. децембар 2023.. 10:00:00 Амф 2"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "4. децембар 2023.. 18:15:00 Амф 2"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "5. децембар 2023.. 18:15:00 Амф 2"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "6. децембар 2023.. 18:15:00 Амф 2"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "7. децембар 2023.. 18:15:00 Амф 2"
+        ]
+    },
+    {
+        "course_id": "М22040",
+        "lecture_session_times": [
+            "6. децембар 2023.. 18:15:00 16"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "11. децембар 2023.. 18:15:00 16"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "12. децембар 2023.. 18:15:00 16"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "13. децембар 2023.. 18:15:00 16"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "14. децембар 2023.. 18:15:00 16"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "15. децембар 2023.. 18:15:00 16"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "18. децембар 2023.. 18:15:00 16"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "20. децембар 2023.. 18:15:00 16"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "21. децембар 2023.. 18:15:00 16"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "22. децембар 2023.. 18:15:00 16"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "25. децембар 2023.. 18:15:00 16"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "26. децембар 2023.. 18:15:00 16"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "27. децембар 2023.. 18:15:00 16"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "28. децембар 2023.. 18:15:00 16"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "29. децембар 2023.. 18:15:00 16"
+        ]
+    },
+    {
+        "course_id": "м22047",
+        "lecture_session_times": [
+            "4. децембар 2023.. 18:15:00 12"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "5. децембар 2023.. 18:15:00 12"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "6. децембар 2023.. 18:15:00 12"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "7. децембар 2023.. 18:15:00 14"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "8. децембар 2023.. 18:15:00 15"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "11. децембар 2023.. 18:15:00 6"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "12. децембар 2023.. 18:15:00 7"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "13. децембар 2023.. 18:15:00 7"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "14. децембар 2023.. 18:15:00 18"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "15. децембар 2023.. 18:15:00 18"
+        ]
+    },
+    {
+        "course_id": "M22052",
+        "lecture_session_times": [
+            "25. октобар 2023.. 18:15:00 11"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "26. октобар 2023.. 18:15:00 13"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "27. октобар 2023.. 18:15:00 11"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "30. октобар 2023.. 18:15:00 13"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "31. октобар 2023.. 18:15:00 13"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "1. новембар 2023.. 18:15:00 11"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "2. новембар 2023.. 18:15:00 11"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "3. новембар 2023.. 18:15:00 11"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "6. новембар 2023.. 18:15:00 11"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "7. новембар 2023.. 18:15:00 13"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "8. новембар 2023.. 18:15:00 11"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "9. новембар 2023.. 18:15:00 13"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "10. новембар 2023.. 18:15:00 11"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "13. новембар 2023.. 18:15:00 13"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "14. новембар 2023.. 18:15:00 13"
+        ]
+    },
+    {
+        "course_id": "М22057",
+        "lecture_session_times": [
+            "11. децембар 2023.. 18:15:00 13"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "12. децембар 2023.. 18:15:00 13"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "13. децембар 2023.. 18:15:00 13"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "14. децембар 2023.. 18:15:00 13"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "15. децембар 2023.. 18:15:00 13"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "16. децембар 2023.. 10:00:00 14"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "18. децембар 2023.. 18:15:00 13"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "20. децембар 2023.. 18:15:00 13"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "21. децембар 2023.. 18:15:00 13"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "22. децембар 2023.. 18:15:00 13"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "23. децембар 2023.. 10:00:00 13"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "25. децембар 2023.. 18:15:00 13"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "26. децембар 2023.. 18:15:00 13"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "27. децембар 2023.. 18:15:00 13"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "28. децембар 2023.. 18:15:00 13"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "29. децембар 2023.. 18:15:00 13"
+        ]
+    },
+    {
+        "course_id": "М22058",
+        "lecture_session_times": [
+            "11. децембар 2023.. 18:15:00 14"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "12. децембар 2023.. 18:15:00 14"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "13. децембар 2023.. 18:15:00 14"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "14. децембар 2023.. 18:15:00 14"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "18. децембар 2023.. 18:15:00 14"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "20. децембар 2023.. 18:15:00 14"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "21. децембар 2023.. 18:15:00 14"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "22. децембар 2023.. 18:15:00 14"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "25. децембар 2023.. 18:15:00 14"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "26. децембар 2023.. 18:15:00 14"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "27. децембар 2023.. 18:15:00 14"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "28. децембар 2023.. 18:15:00 14"
+        ]
+    },
+    {
+        "course_id": "М22059",
+        "lecture_session_times": [
+            "9. децембар 2023.. 10:00:00 Амф 5"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "11. децембар 2023.. 18:15:00 15"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "12. децембар 2023.. 18:15:00 15"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "13. децембар 2023.. 18:15:00 15"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "14. децембар 2023.. 18:15:00 13"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "15. децембар 2023.. 18:15:00 15"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "18. децембар 2023.. 18:15:00 15"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "20. децембар 2023.. 18:15:00 15"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "21. децембар 2023.. 18:15:00 15"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "22. децембар 2023.. 18:15:00 15"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "25. децембар 2023.. 18:15:00 15"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "26. децембар 2023.. 18:15:00 15"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "27. децембар 2023.. 18:15:00 15"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "28. децембар 2023.. 18:15:00 15"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "29. децембар 2023.. 18:15:00 15"
+        ]
+    },
+    {
+        "course_id": "М22062",
+        "lecture_session_times": [
+            "7. децембар 2023.. 18:15:00 12"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "8. децембар 2023.. 18:15:00 12"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "9. децембар 2023.. 10:00:00 12"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "11. децембар 2023.. 18:15:00 12"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "12. децембар 2023.. 18:15:00 12"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "13. децембар 2023.. 18:15:00 12"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "14. децембар 2023.. 18:15:00 12"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "15. децембар 2023.. 18:15:00 12"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "16. децембар 2023.. 10:00:00 12"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "18. децембар 2023.. 18:15:00 12"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "21. децембар 2023.. 18:15:00 12"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "22. децембар 2023.. 18:15:00 12"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "25. децембар 2023.. 18:15:00 12"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "26. децембар 2023.. 18:15:00 12"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "27. децембар 2023.. 18:15:00 12"
+        ]
+    },
+    {
+        "course_id": "М22064",
+        "lecture_session_times": [
+            "8. децембар 2023.. 18:15:00 14"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "9. децембар 2023.. 10:00:00 14"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "11. децембар 2023.. 18:15:00 17"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "12. децембар 2023.. 18:15:00 17"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "13. децембар 2023.. 18:15:00 17"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "14. децембар 2023.. 18:15:00 17"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "15. децембар 2023.. 18:15:00 17"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "18. децембар 2023.. 18:15:00 17"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "20. децембар 2023.. 18:15:00 17"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "21. децембар 2023.. 18:15:00 17"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "22. децембар 2023.. 18:15:00 17"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "23. децембар 2023.. 10:00:00 17"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "25. децембар 2023.. 18:15:00 17"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "26. децембар 2023.. 18:15:00 17"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "27. децембар 2023.. 18:15:00 17"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "28. децембар 2023.. 18:15:00 17"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "nan. nan nan"
+        ]
+    },
+    {
+        "course_id": "М22066",
+        "lecture_session_times": [
+            "25. октобар 2023.. 18:15:00 18"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "26. октобар 2023.. 18:15:00 18"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "27. октобар 2023.. 18:15:00 18"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "30. октобар 2023.. 18:15:00 15"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "31. октобар 2023.. 18:15:00 15"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "1.новембар 2023.. 18:15:00 15"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "2. новембар 2023.. 18:15:00 15"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "3. новембар 2023.. 18:15:00 15"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "6. новембар 2023.. 18:15:00 15"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "7. новембар 2023.. 18:15:00 15"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "8. новембар 2023.. 18:15:00 15"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "9. новембар 2023.. 18:15:00 15"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "10. новембар 2023.. 18:15:00 15"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "13. новембар 2023.. 18:15:00 15"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "14. новембар 2023.. 18:15:00 15"
+        ]
+    },
+    {
+        "course_id": "М22074",
+        "lecture_session_times": [
+            "25. октобар 2023.. 18:15:00 21"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "26. октобар 2023.. 18:15:00 21"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "27. октобар 2023.. 18:15:00 21"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "30. октобар 2023.. 18:15:00 21"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "31. октобар 2023.. 18:15:00 21"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "1. новембар 2023.. 18:15:00 21"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "2. новембар 2023.. 18:15:00 21"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "3. новембар 2023.. 18:15:00 21"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "6. новембар 2023.. 18:15:00 21"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "7. новембар 2023.. 18:15:00 21"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "8. новембар 2023.. 18:15:00 21"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "9. новембар 2023.. 18:15:00 21"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "10. новембар 2023.. 18:15:00 21"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "13. новембар 2023.. 18:15:00 21"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "14. новембар 2023.. 18:15:00 21"
+        ]
+    },
+    {
+        "course_id": "М22192",
+        "lecture_session_times": [
+            "13. децембар 2023. 18:15:00 119"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "21. децембар 2023.. 18:15:00 18"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "25. децембар 2023.. 18:15:00 20"
+        ]
+    },
+    {
+        "course_id": "М22082",
+        "lecture_session_times": [
+            "30. октобар 2023.. 18:15:00 50"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "31. октобар 2023.. 18:15:00 50"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "2. новембар 2023.. 18:15:00 50"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "3. новембар 2023.. 18:15:00 50"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "6. новембар 2023.. 18:15:00 50"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "8. новембар 2023.. 18:15:00 60"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "14. новембар 2023.. 18:15:00 50"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "16. новембар 2023.. 18:15:00 50"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "17. новембар 2023.. 18:15:00 50"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "22. новембар 2023.. 18:15:00 50 19"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "24. новембар 2023.. 18:15:00 50 19"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "27. новембар 2023.. 18:15:00 50"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "29. новембар 2023.. 18:15:00 60"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "1. децембар 2023.. 18:15:00 60"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "6. децембар 2023.. 18:15:00 60"
+        ]
+    },
+    {
+        "course_id": "М22090",
+        "lecture_session_times": [
+            "17. новембар 2023.. 18:15:00 15"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "20. новембар 2023.. 18:15:00 Амф 4"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "21. новембар 2023.. 18:15:00 Амф 4"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "22. новембар 2023.. 18:15:00 15"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "23. новембар 2023.. 18:15:00 15"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "27. новембар 2023.. 18:15:00 15"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "28. новембар 2023.. 18:15:00 15"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "29. новембар 2023.. 18:15:00 15"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "30. новембар 2023.. 18:15:00 15"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "4. децембар 2023.. 18:15:00 15"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "5. децембар 2023.. 18:15:00 15"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "6. децембар 2023.. 18:15:00 15"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "7. децембар 2023.. 18:15:00 15"
+        ]
+    },
+    {
+        "course_id": "М22091",
+        "lecture_session_times": [
+            "25. октобар 2023.. 18:15:00 7"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "31. октобар 2023.. 18:15:00 8"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "7. новембар 2023.. 18:15:00 8"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "14. новембар 2023.. 18:15:00 8"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "15. новембар 2023.. 18:15:00 8"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "21. новембар 2023.. 18:15:00 8"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "22. новембар 2023.. 18:15:00 8"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "27. новембар 2023.. 18:15:00 8"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "29. новембар 2023.. 18:15:00 8"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "6. децембар 2023.. 18:15:00 8"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "8. децембар 2023.. 18:15:00 8"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "13. децембар 2023.. 18:15:00 8"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "20. децембар 2023.. 18:15:00 8"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "27. децембар 2023.. 18:15:00 8"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "28. децембар 2023.. 18:15:00 8"
+        ]
+    },
+    {
+        "course_id": "М22104",
+        "lecture_session_times": [
+            "1. децембар 2023.. 18:15:00 21"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "4. децембар 2023.. 18:15:00 21"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "5. децембар 2023.. 18:15:00 21"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "11. децембар 2023.. 18:15:00 21"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "12. децембар 2023.. 18:15:00 21"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "14. децембар 2023.. 18:15:00 21"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "15. децембар 2023.. 18:15:00 21"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "18. децембар 2023.. 18:15:00 21"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "21. децембар 2023.. 18:15:00 21"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "22. децембар 2023.. 18:15:00 21"
+        ]
+    },
+    {
+        "course_id": "М22107",
+        "lecture_session_times": [
+            "25. октобар 2023.. 18:15:00 30"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "26. октобар 2023.. 18:15:00 30"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "27. октобар 2023.. 18:15:00 30"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "30. октобар 2023.. 18:15:00 30"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "31. октобар 2023.. 18:15:00 30"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "1.новембар 2023.. 18:15:00 30"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "2. новембар 2023.. 18:15:00 30"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "3. новембар 2023.. 18:15:00 9"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "6. новембар 2023.. 18:15:00 9"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "7. новембар 2023.. 18:15:00 9"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "8. новембар 2023.. 18:15:00 9"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "9. новембар 2023.. 18:15:00 9"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "10. новембар 2023.. 18:15:00 9"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "13. новембар 2023.. 18:15:00 9"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "14. новембар 2023.. 18:15:00 9"
+        ]
+    },
+    {
+        "course_id": "М22108",
+        "lecture_session_times": [
+            "25. октобар 2023.. 18:15:00 61"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "26. октобар 2023.. 18:15:00 40"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "7. новембар 2023.. 18:15:00 40"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "9. новембар 2023.. 18:15:00 40"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "13. новембар 2023.. 18:15:00 40"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "20. новембар 2023.. 18:15:00 40"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "21. новембар 2023.. 18:15:00 40"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "4. децембар 2023.. 18:15:00 40"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "5. децембар 2023.. 18:15:00 40"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "11. децембар 2023.. 18:15:00 40"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "12. децембар 2023.. 18:15:00 40"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "14. децембар 2023.. 18:15:00 40"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "18. децембар 2023.. 18:15:00 40"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "21. децембар 2023.. 18:15:00 40"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "22. децембар 2023.. 18:15:00 40"
+        ]
+    },
+    {
+        "course_id": "М22112",
+        "lecture_session_times": [
+            "16. новембар 2023.. 18:15:00 Амф3"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "17. новембар 2023.. 18:15:00 Амф3 Амф3 Амф3 Амф3 Амф3 Амф3 Амф3 21 Амф3 21 Амф3 Амф3 21"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "18. новембар 2023.. 10:00:00 21"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "20. новембар 2023.. 18:15:00 nan"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "21. новембар 2023.. 18:15:00 nan"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "22. новембар 2023.. 18:15:00 nan"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "23. децембар 2023.. 18:15:00 nan"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "24. новембар 2023.. 18:15:00 nan"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "25. новембар 2023.. 10:00:00 nan"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "27. новембар 2023.. 18:15:00 nan"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "28. новембар 2023.. 18:15:00 nan"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "29. новембар 2023.. 18:15:00 nan"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "6. децембар 2023.. 18:15:00 nan"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "7. децембар 2023.. 18:15:00 nan"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "8. децембар 2023.. 18:15:00 nan"
+        ]
+    },
+    {
+        "course_id": "М22115",
+        "lecture_session_times": [
+            "30. октобар 2023.. 18:15:00 17"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "31. октобар 2023.. 18:15:00 17"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "6. новембар 2023.. 18:15:00 17"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "7. новембар 2023.. 18:15:00 -"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "8. новембар 2023.. 18:15:00 17"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "13. новембар 2023.. 18:15:00 17"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "14. новембар 2023.. 18:15:00 17"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "20. новембар 2023.. 18:15:00 17"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "21. новембар 2023.. 18:15:00 17"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "+22. новембар 2023.. 18:15:00 Амф 5"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "27. новембар 2023.. 18:15:00 17"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "28. новембар 2023.. 18:15:00 17"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "4. децембар 2023.. 18:15:00 17"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "5. децембар 2023.. 18:15:00 17"
+        ]
+    },
+    {
+        "course_id": "М22117",
+        "lecture_session_times": [
+            "20. новембар 2023.. 18:15:00 13"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "22. новембар 2023.. 18:15:00 13"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "23. новембар 2023.. 18:15:00 13"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "24. новембар 2023.. 18:15:00 13"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "27. новембар 2023.. 18:15:00 13"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "28. новембар 2023.. 18:15:00 13"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "29. новембар 2023.. 18:15:00 13"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "30. новембар 2023.. 18:15:00 13"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "6. децембар 2023.. 18:15:00 13"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "7. децембар 2023.. 18:15:00 13"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "8. децембар 2023.. 18:15:00 13"
+        ]
+    },
+    {
+        "course_id": "М22172",
+        "lecture_session_times": [
+            "16. новембар 2023.. 18:15:00 30"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "17. новембар 2023.. 18:15:00 30"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "20. новембар 2023.. 18:15:00 30"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "21. новембар 2023.. 18:15:00 30"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "22. новембар 2023.. 18:15:00 30"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "23. новембар 2023.. 18:15:00 30"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "24. новембар 2023.. 18:15:00 30"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "27. новембар 2023.. 18:15:00 30"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "28. новембар 2023.. 18:15:00 30"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "29. новембар 2023.. 18:15:00 30"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "30. новембар 2023.. 18:15:00 30"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "1. децембар 2023.. 18:15:00 30"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "4. децембар 2023.. 18:15:00 30"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "5. децембар 2023.. 18:15:00 30"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "6. децембар 2023.. 18:15:00 30"
+        ]
+    },
+    {
+        "course_id": "М22127",
+        "lecture_session_times": [
+            "17. новембар 2023.. 18:15 16"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "20. новембар 2023.. 18:15:00 16"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "21. новембар 2023.. 18:15:00 16"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "22. новембар 2023.. 18:15:00 16"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "23. новембар 2023.. 18:15:00 16"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "24. новембар 2023.. 18:15:00 16"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "27. новембар 2023.. 18:15:00 16"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "28. новембар 2023.. 18:15:00 16"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "29. новембар 2023.. 18:15:00 16"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "+ 6 термина консултација. nan nan"
+        ]
+    },
+    {
+        "course_id": "м22130",
+        "lecture_session_times": [
+            "11. децембар 2023.. 18:15:00 18"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "12. децембар 2023.. 18:15:00 30"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "13. децембар 2023.. 18:15:00 20"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "14. децембар 2023.. 18:15:00 20"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "15. децембар 2023.. 18:15:00 20"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "18. децембар 2023.. 18:15:00 20"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "20. децембар 2023.. 18:15:00 18"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "21. децембар 2023.. 18:15:00 20"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "22. децембар 2023.. 18:15:00 18"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "25. децембар 2023.. 18:15:00 18"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "26. децембар 2023.. 18:15:00 18"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "27. децембар 2023.. 18:15:00 18"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "28. децембар 2023.. 16:00:00 12"
+        ]
+    },
+    {
+        "course_id": "М22135",
+        "lecture_session_times": [
+            "+ 3. новембар 2023.. 18:15:00 14"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "6. новембар 2023.. 18:15:00 14"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "7. новембар 2023.. 18:15:00 14"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "8. новембар 2023.. 18:15:00 14"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "9. новембар 2023.. 18:15:00 14"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "10. новембар 2023.. 18:15:00 14"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "20. новембар 2023.. 18:15:00 14"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "21. новембар 2023.. 18:15:00 14"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "22. новембар 2023.. 18:15:00 14"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "23. новембар 2023.. 18:15:00 14"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "24. новембар 2023.. 18:15:00 14"
+        ]
+    },
+    {
+        "course_id": "М22136",
+        "lecture_session_times": [
+            "22. новембар 2023.. 18:15:00 7"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "23. новембар 2023.. 18:15:00 7"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "24. новембар 2023.. 18:15:00 7"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "4. децембар 2023.. 18:15:00 7"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "5. децембар 2023.. 18:15:00 7"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "7. децембар 2023.. 18:15:00 7"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "11. децембар 2023.. 18:15:00 7"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "14. децембар 2023.. 18:15:00 7"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "18. децембар 2023.. 18:15:00 7"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "22. децембар 2023.. 18:15:00 7"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "25. децембар 2023.. 18:15:00 7"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "28. децембар 2023.. 18:15:00 7"
+        ]
+    },
+    {
+        "course_id": "М22122",
+        "lecture_session_times": [
+            "17. новембар 2023.. 18:15:00 61"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "20. новембар 2023.. 18:45:00 61"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "21. новембар 2023.. 18:15:00 61"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "22. новембар 2023.. 18:30:00 61"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "23. новембар 2023.. 18:30:00 61"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "24. новембар 2023.. 18:15:00 61"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "27. новембар 2023.. 18:15:00 61"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "28. новембар 2023.. 18:15:00 50"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "29. новембар 2023.. 18:15:00 9"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "30. новембар 2023.. 18:15:00 40"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "1. децембар 2023.. 18:15:00 40"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "4. децембар 2023.. 18:15:00 62"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "5. децембар 2023.. 18:15:00 9"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "6. децембар 2023.. 18:15:00 9"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "7. децембар 2023.. 18:15:00 9"
+        ]
+    },
+    {
+        "course_id": "М22137",
+        "lecture_session_times": [
+            "20. новембар 2023.. 18:45:00 60"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "21. новембар 2023.. 18:15:00 60"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "22. новембар 2023.. 18:30:00 60"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "23. новембар 2023.. 18:30:00 60"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "24. новембар 2023.. 18:15:00 60"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "27. новембар 2023.. 18:15:00 60"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "28. новембар 2023.. 18:15:00 60"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "29. новембар 2023.. 18:15:00 11"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "30. новембар 2023.. 18:15:00 50"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "1. децембар 2023.. 18:15:00 50"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "4. децембар 2023.. 18:15:00 60"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "5. децембар 2023.. 18:15:00 60"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "6. децембар 2023.. 18:15:00 11"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "7. децембар 2023.. 18:15:00 11"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "8. децембар 2023.. 18:15:00 11"
+        ]
+    },
+    {
+        "course_id": "М20140",
+        "lecture_session_times": [
+            "18. октобар 2023.. 18:15:00 12"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "19. октобар 2023.. 18:15:00 12"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "20. октобар 2023.. 18:15:00 12"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "23. октобар 2023.. 18:15:00 12"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "24. октобар 2023.. 18:15:00 12"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "25. октобар 2023.. 18:15:00 12"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "26. октобар 2023.. 18:15:00 12"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "27. октобар 2023.. 18:15:00 12"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "30. октобар 2023.. 18:15:00 12"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "31. октобар 2023. 18:15:00 12"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "1. новембар 2023.. 18:15:00 12"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "2. новембар 2023.. 18:15:00 12"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "3. новембар 2023.. 18:15:00 12"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "6. новембар 2023.. 18:15:00 12"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "7. новембар 2023.. 18:15:00 12"
+        ]
+    },
+    {
+        "course_id": "М22150",
+        "lecture_session_times": [
+            "20. новембар 2023.. 18:15:00 Амф 5"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "21. новембар 2023.. 18:15:00 50"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "22. новембар 2023.. 18:15:00 11"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "24. новембар 2023.. 18:15:00 40"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "27. новембар 2023.. 18:15:00 40"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "28. новембар 2023.. 18:15:00 40"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "29. новембар 2023.. 18:15:00 61"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "1. децембар 2023. 18:15:00 61"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "4. децембар 2023.. 18:15:00 61"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "5. децембар 2023.. 18:15:00 50"
+        ]
+    },
+    {
+        "course_id": "М22151",
+        "lecture_session_times": [
+            "9. децембар 2023.. 10:00:00 19"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "11. децембар 2023.. 18:15:00 50"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "12. децембар 2023.. 18:15:00 11"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "13. децембар 2023.. 18:15:00 60"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "14. децембар 2023.. 18:15:00 11"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "15. децембар 2023.. 18:15:00 50"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "18. децембар 2023.. 18:15:00 50"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "20. децембар 2023.. 18:15:00 60"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "21. децембар 2023.. 18:15:00 11"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "22. децембар 2023.. 18:15:00 60"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "25. децембар 2023.. 18:15:00 60"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "26. децембар 2023.. 18:15:00 60"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "27. децембар 2023.. 18:15:00 60"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "28. децембар 2023.. 18:15:00 11"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "29. децембар 2023.. 18:15:00 11"
+        ]
+    },
+    {
+        "course_id": "М22156",
+        "lecture_session_times": [
+            "16. новембар 2023.. 18:15:00 Амф 2"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "17. новембар 2023.. 18:15:00 13"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "18. новембар 2023.. 10:00:00 13"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "20. новембар 2023.. 18:15:00 Амф 1"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "23. новембар 2023.. 18:15:00 17"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "24. новембар 2023.. 18:15:00 15"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "25. новембар 2023.. 10:00:00 15"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "27. новембар 2023.. 18:15:00 14"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "28. новембар 2023.. 18:15:00 14"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "29. новембар 2023.. 18:15:00 14"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "30. новембар 2023.. 18:15:00 21"
+        ]
+    },
+    {
+        "course_id": "М20161",
+        "lecture_session_times": [
+            "18. октобар 2023.. 18:15:00 Амф 2"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "19. октобар 2023.. 18:15:00 Амф 2"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "20. октобар 2023.. 18:15:00 Амф 2"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "23. октобар 2023.. 18:15:00 Амф 2"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "24. октобар 2023.. 18:15:00 Амф 4"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "25. октобар 2023.. 18:15:00 Амф 2"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "26. октобар 2023.. 18:15:00 Амф 2"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "27. октобар 2023.. 18:15:00 Амф 2"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "30. октобар 2023.. 18:15:00 Амф 2"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "31. октобар 2023. 18:15:00 Амф 2"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "1. новембар 2023.. 18:15:00 Амф 2"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "2. новембар 2023.. 18:15:00 Амф 2"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "3. новембар 2023.. 18:15:00 Амф 2"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "6. новембар 2023.. 18:15:00 Амф 2"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "7. новембар 2023.. 18:15:00 Амф 2"
+        ]
+    },
+    {
+        "course_id": "М22158",
+        "lecture_session_times": [
+            "25. октобар 2023.. 18:15:00 Амф 3"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "26. октобар 2023.. 18:15:00 Online"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "27. октобар 2023.. 18:15:00 Амф 3"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "30. октобар 2023.. 18:15:00 Амф 3"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "31. октобар 2023.. 18:15:00 Амф 3"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "1. новембар 2023.. 18:15:00 Амф 3"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "2. новембар 2023.. 18:15:00 Амф 3"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "3. новембар 2023.. 18:15:00 Амф 3"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "6. новембар 2023.. 18:15:00 Амф 3"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "7. новембар 2023.. 18:15:00 Амф 3"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "8. новембар 2023.. 18:15:00 Амф 3"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "9. новембар 2023.. 18:15:00 Амф 3"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "13. новембар 2023.. 18:15:00 Амф 3"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "14. новембар 2023.. 18:15:00 Амф 3"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "15. новембар 2023.. 18:15:00 Амф 3"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "22. новембар 2023.. 18:15:00 19 50"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "24. новембар 2023.. 18:15:00 19 50"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "30. новембар 2023.. 18:15:00 19"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "4. децембар 2023.. 18:15:00 19"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "6. децембар 2023.. 18:15:00 19"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "8. децембар 2023.. 18:15:00 19"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "11. децембар 2023.. 18:15:00 19"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "13. децембар 2023.. 18:15:00 19"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "15. децембар 2023.. 18:15:00 11"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "22. децембар 2023.. 18:15:00 19"
+        ]
+    },
+    {
+        "course_id": "М22174",
+        "lecture_session_times": [
+            "1. децембар 2023.. 18:15:00 Амф3"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "4. децембар 2023.. 18:15:00 Амф3 Амф3 Амф3 Амф3 Амф3 Амф3 Амф3"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "5. децембар 2023.. 18:15:00 Амф3"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "11. децембар 2023.. 18:15:00 Амф3"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "12. децембар 2023.. 18:15:00 Online"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "13. децембар 2023.. 18:15:00 Aмф3"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "14. децембар 2023.. 18:15:00  Амф3 Амф3 Амф3 Амф3 Амф3"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "15. децембар 2023.. 18:15:00 nan"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "16. децембар 2023.. 10:00:00 nan"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "18. децембар 2023.. 18:15:00 nan"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "19. децембар 2023.. 18:15:00 nan"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "20. децембар 2023.. 18:15:00 nan"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "21. децембар 2023.. 18:15:00 nan"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "22. децембар 2023.. 18:15:00 nan"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "23. децембар 2023.. 10:15:00 nan"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "25. децембар 2023.. 18:15:00 nan"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "26. децембар 2023.. 18:15:00 nan"
+        ]
+    },
+    {
+        "course_id": "М22182",
+        "lecture_session_times": [
+            "менторски. nan nan"
+        ]
+    },
+    {
+        "course_id": "М22187",
+        "lecture_session_times": [
+            "2. новембар 2023.. 18:15:00 18"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "3. новембар 2023.. 18:15:00 18"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "9. новембар 2023. . 18:15:00 18"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "10. новембар 2023.. 18:15:00 18"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "16. новембар 2023.. 18:15:00 18"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "17. новембар 2023.. 18:15:00 18"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "23. новембар 2023.. 18:15:00 18"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "24. новембар 2023.. 18:15:00 18"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "30. новембар 2023.. 18:15:00 18"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "1. децембар 2023.. 18:15:00 18"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "7. децембар 2023.. 18:15:00 18"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "8. децембар 2023.. 18:15:00 18"
+        ]
+    },
+    {
+        "course_id": "м22188",
+        "lecture_session_times": [
+            "20. децембар 2023.. 18:15:00 6"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "22. децембар 2023.. 18:15:00 6"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "25. децембар 2023.. 18:15:00 6"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "26. децембар 2023.. 18:15:00 7"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "27. децембар 2023.. 18:15:00 6"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "28. децембар 2023.. 18:15:00 6"
+        ]
+    },
+    {
+        "course_id": "М22198",
+        "lecture_session_times": [
+            "20. новембар 2023.. 18:15 12"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "21. новембар 2023.. 18:15:00 12"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "22. новембар 2023.. 18:15:00 12"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "24. новембар 2023.. 18:15:00 12"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "27. новембар 2023.. 18:15:00 12"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "28. новембар 2023.. 18:15:00 12"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "29.  новембар 2023.. 18:15:00 12"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "1. децембар 2023.. 18:15:00 12"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "+ 9 термина. nan nan"
+        ]
+    },
+    {
+        "course_id": "М23002",
+        "lecture_session_times": [
+            "менторски. nan nan"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "25. октобар 2023.. 18:15:00 20"
+        ]
+    },
+    {
+        "course_id": "М18009",
+        "lecture_session_times": [
+            "26. октобар 2023.. 18:15:00 20"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "27. октобар 2023.. 18:15:00 20"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "30. октобар 2023.. 18:15:00 20"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "31. октобар 2023.. 18:15:00 20"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "1. новембар 2023.. 18:15:00 20"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "2. новембар 2023.. 18:15:00 20"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "3. новембар 2023.. 18:15:00 20"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "6. новембар 2023.. 18:15:00 20"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "7. новембар 2023.. 18:15:00 20"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "8. новембар 2023.. 18:15:00 20"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "9. новембар 2023.. 18:15:00 20"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "10. новембар 2023.. 18:15:00 20"
+        ]
+    },
+    {
+        "course_id": NaN,
+        "lecture_session_times": [
+            "14. новембар 2023.. 18:15:00 40"
+        ]
+    }
+]
