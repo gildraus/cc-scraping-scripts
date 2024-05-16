@@ -1,5 +1,3 @@
-
-
 import json
 
 # Read data from the JSON file
@@ -14,16 +12,33 @@ for course in previous_data:
         grouped_courses[name] = []
     grouped_courses[name].append(course)
 
-# Transform and merge modules and programs
+# Transform and merge courses
 transformed_courses = []
 for name, courses_with_same_name in grouped_courses.items():
     merged_modules = list(set([module for course in courses_with_same_name for module in course['modules']]))
     merged_programs = list(set([program for course in courses_with_same_name for program in course['programs']]))
+
+    # Example of selecting one of the values from the duplicates
+    first_course = courses_with_same_name[0]  # Takes values from the first course instance
+
     transformed_course = {
+        "course_id": first_course['course_id'],
         "name": name,
+        "level_of_study": first_course['level_of_study'],
+        "programs": merged_programs,
         "modules": merged_modules,
-        "programs": merged_programs
-        # Add other fields as needed
+        "semester": first_course['semester'],
+        "departments": first_course['departments'],
+        "year_of_study": first_course['year_of_study'],
+        "espb": first_course['espb'],
+        "literature": first_course['literature'],
+        "link": first_course['link'],
+        "video": first_course['video'],
+        "description": first_course['description'],
+        "note": first_course['note'],
+        "tags": first_course['tags'],
+        "status": first_course['status'],
+        "lecturers": first_course['lecturers']
     }
     transformed_courses.append(transformed_course)
 
